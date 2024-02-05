@@ -10,7 +10,7 @@ import Footer from "./Footer.js";
 
 const Home = () => {
 	return (
-		<div className="text-center">
+		<div className="">
 			<Navbar/>
 			<Title/>
 			<Cards/>

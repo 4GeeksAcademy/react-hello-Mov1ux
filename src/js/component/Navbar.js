@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav class="navbar navbar-expand-lg bg-secondary">
       <div class="container-fluid text-white">
         <a class="navbar-brand" href="#">
-          Navbar
+          Start Boostrap
         </a>
         <button
           class="navbar-toggler"
@@ -18,7 +18,7 @@ const Navbar = () => {
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="#">

@@ -6,7 +6,7 @@ import React from "react";
 */
 const Card =(props) => {
     return (
-        <div className="card" style={{
+        <div className="card container-fluid col-lg-md" style={{
             width: "18rem"
         }}>
             <img src={props.image} className="card-img-top" alt="..." />
